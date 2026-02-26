@@ -25,7 +25,7 @@
             bindings = <
                 &kp EQUAL &kp MINUS &kp N0 &kp N9 &kp N8 &kp N7 &kp N6 &trans
                 &kp RBKT &kp LBKT &kp P &kp O &kp I &kp U &kp Y &trans
-                &kp RET &kp CAPS &kp SEMI &kp L &kp K &kp J &kp H &trans
+                &kp RET &kp SQT &kp SEMI &kp L &kp K &kp J &kp H &trans
                 &kp BSLH &kp RSHFT &kp FSLH &kp DOT &kp COMMA &kp M &kp N &none
                 &kp RCTRL &kp RWIN &kp RALT &mo 2 &kp BSPC &kp SPACE &trans &none
             >;
