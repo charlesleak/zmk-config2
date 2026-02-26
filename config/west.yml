@@ -2,8 +2,8 @@ manifest:
   remotes:
     - name: zmkfirmware
       url-base: https://github.com/zmkfirmware
-    - name: zmk-config2
-      url-base: https://github.com/charlesleak
+#    - name: zmk-config2
+#      url-base: https://github.com/charlesleak
     # Additional modules containing boards/shields/custom code can be listed here as well
     # See https://docs.zephyrproject.org/3.2.0/develop/west/manifest.html#projects
   projects:
@@ -11,8 +11,8 @@ manifest:
       remote: zmkfirmware
       import: app/west.yml
       revision: main
-    - name: zmk-config2
-      remote: zmk-config2
+#    - name: zmk-config2
+#      remote: zmk-config2
 
   self:
     path: config
