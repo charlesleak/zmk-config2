@@ -13,7 +13,7 @@ manifest:
       remote: zmkfirmware
       import: app/west.yml
     - name: qwert
-      remote: qwert
+      remote: zmk-config2
 
   self:
     path: config
